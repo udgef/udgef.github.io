@@ -1,0 +1,21 @@
+.article_body{
+    color: #fff;
+}
+.article_header{
+    text-align: center;
+}
+.article_title{
+    font-size: 4.5rem;
+}
+.article_subtitle{
+    font-size: 1.5rem;
+    color:rgb(250, 37, 0);
+    margin-block-end: 1rem;
+}
+.article_subtitle{
+    text-transform: uppercase;
+}
+.article_litle{
+    text-transform: uppercase;
+    color: rgb(81, 255, 0)
+}
